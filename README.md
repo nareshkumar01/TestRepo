@@ -1,2 +1,2 @@
 # TestRepo
-TestRepo contains my test projects
+TestRepo contains my latest test projects
